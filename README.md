@@ -1,0 +1,2 @@
+# EmlakPortali
+VizeOdevi
